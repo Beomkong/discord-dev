@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.fdad14099779e61cb84dcd1cb2497e0e853a6144",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
